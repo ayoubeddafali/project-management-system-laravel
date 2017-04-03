@@ -1,0 +1,5 @@
+Decorator - add additional responsibilities dynamically to an object.
+
+
+
+ This lecture is work in progress and will be available sometime in March.
